@@ -2,7 +2,7 @@
 def helloWorld(int):
     i = 0
     while i < int:
-        print('Hellow World')
+        print('Hello World')
         i+=1
 
 
